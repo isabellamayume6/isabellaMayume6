@@ -1,4 +1,4 @@
-Olá, pessoal! Eu sou a Isabella Mayume.
+Olá, pessoal! Eu sou Isabella Mayume.
 - 🔭 Atualmente estudando front-end com HTML, CSS e javascript
 - 🌱 Cursando curso de full-stack Kenzie Academy BR
 - 👯 Brasilia-DF
