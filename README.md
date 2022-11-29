@@ -1,7 +1,9 @@
 Olá, pessoal! Eu sou Isabella Mayume.
-- 🔭 Atualmente estudando react.js
-- 🌱 Cursando curso de full-stack Kenzie Academy BR
+
+- 🔭 Cursando ciências da computação
+- 🌱 Estagiando 
 - 👯 Brasilia-DF
+- 🏁 Fullstack
 
  <div>
   <a href="https://github.com/isabellaMayume6">
