@@ -1,7 +1,7 @@
 Olá, pessoal! Eu sou Isabella Mayume.
 
 - 🔭 Cursando ciências da computação
-- 🌱 Estagiando 
+- 🌱 Product Manager  
 - 👯 Brasilia-DF
 - 🏁 Fullstack
 
